@@ -3,9 +3,4 @@
 /* ============================================= */
 @import 'utilities/index';
 @import 'base/index';
-
-/* ============================================= */
-/* Base Imports */
-/* ============================================= */
-@import 'normalize';
-@import 'typography';
+@import 'components/index.scss';
